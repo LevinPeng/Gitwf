@@ -6,7 +6,3 @@ Added for F14
 Added for F14 (2nd times)
 Added for F14 (3rd times)
 
-<<<<<<< HEAD
-Added for F14 (4th times)
-=======
->>>>>>> feature/F14
